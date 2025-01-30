@@ -3,7 +3,7 @@ Tracking NANC (Dems) and KRUZ (Reps) trading stocks ETFs
 
 # You can run this in VScode
 
-![NANC vs KRUZ](Screenshot.png)
+![NANC vs KRUZ Last Updated 1.29.2025](Screenshot.png)
 
 # This is a good article on these 2 funds
 
